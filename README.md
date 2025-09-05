@@ -1,88 +1,114 @@
 <div align="center">
 <h1>Data Structures & Algorithms for Coding Interview</h1>
+<p align="center">
+<a href="#">  
+<img alt="Stars" src="https://img.shields.io/github/stars/SamirPaulb/DSAlgo"> 
+<img alt="Forks" src="https://img.shields.io/github/forks/SamirPaulb/DSAlgo"> 
+<img alt="Size" src="https://img.shields.io/github/repo-size/SamirPaulb/DSAlgo"> 
+<img alt="Hits" src="https://hitsofcode.com/github/SamirPaulb/DSAlgo?branch=main">
+<img alt="language" src="https://github.com/SamirPaulb/DSAlgo/assets/77569653/030fb10d-3def-4a4c-8beb-2eb9b111c1fb">
+</a>
+</p>  
+
 <b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
 </div>
 
-<a href="#"><img width="1188" alt="DSA banner" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/dsa-in-python.jpeg"></a>
-
-<div align="center">
-<b>View this repository with improved user experience▶️https://samirpaul1.github.io/DSAlgo</b>🚀
-</div>
+<a href="#"><img width="1188" alt="DSA banner" src="https://scdn.netlify.app/dsa-in-python.jpg"></a>
 
 In this repository, I have stored solutions to various problems and concepts of **Data Structures and Algorithms** in Python3 in a structured manner.✨
 
 :heavy_check_mark:  <ins>_**Topics Covered**_</ins>:
-- [x]  [**Dynamic Programming**](https://github.com/SamirPaul1/DSAlgo/tree/main/02_Dynamic-Programming)
-- [x]  [**Sorting Algorithms**](https://github.com/SamirPaul1/DSAlgo/tree/main/03_Sorting-Algorithms)
-- [x]  [**LinkedList**](https://github.com/SamirPaul1/DSAlgo/tree/main/04_LinkedList)
-- [x]  [**Object-Oriented Programming**](https://github.com/SamirPaul1/DSAlgo/tree/main/05_Object-Oriented-Programming)
-- [x]  [**Binary Trees**](https://github.com/SamirPaul1/DSAlgo/tree/main/06_Binary-Trees)
-- [x]  [**Graph Algorithms**](https://github.com/SamirPaul1/DSAlgo/tree/main/07_Graph)
-- [x]  [**Heap**](https://github.com/SamirPaul1/DSAlgo/tree/main/08_Heap)
-- [x]  [**Matrix**](https://github.com/SamirPaul1/DSAlgo/tree/main/09_Matrix)
-- [x]  [**Trie**](https://github.com/SamirPaul1/DSAlgo/tree/main/10_Trie)
-- [x]  [**Binary Search**](https://github.com/SamirPaul1/DSAlgo/tree/main/11_Binary-Search)
-- [x]  [**Backtracking**](https://github.com/SamirPaul1/DSAlgo/tree/main/12_Backtracking)
-- [x]  [**Stack**](https://github.com/SamirPaul1/DSAlgo/tree/main/13_Stack)
-- [x]  [**Queue**](https://github.com/SamirPaul1/DSAlgo/tree/main/14_Queue)
-- [x]  [**Greedy**](https://github.com/SamirPaul1/DSAlgo/tree/main/15_Greedy)
-- [x]  [**String**](https://github.com/SamirPaul1/DSAlgo/tree/main/16_String)
-- [x]  [**Bit Manipulation**](https://github.com/SamirPaul1/DSAlgo/tree/main/17_Bit-Manipulation)
-- [x]  [**Array**](https://github.com/SamirPaul1/DSAlgo/tree/main/18_Array)
-- [x]  [**HashMap**](https://github.com/SamirPaul1/DSAlgo/tree/main/19_HashMap)
-- [x]  [**DFS BFS**](https://github.com/SamirPaul1/DSAlgo/tree/main/20_DFS-BFS)
-- [x]  [**Two Pointers**](https://github.com/SamirPaul1/DSAlgo/tree/main/21_Two-Pointers)
-- [x]  [**Math**](https://github.com/SamirPaul1/DSAlgo/tree/main/22_Math) 
-- [x]  [**Recursion**](https://github.com/SamirPaul1/DSAlgo/tree/main/23_Recursion) 
+- [x]  [**LeetCode All Problems Solutions**](https://github.com/SamirPaulb/DSAlgo/tree/main/01_LeetCode)
+- [x]  [**Dynamic Programming**](https://github.com/SamirPaulb/DSAlgo/tree/main/02_Dynamic-Programming)
+- [x]  [**Sorting Algorithms**](https://github.com/SamirPaulb/DSAlgo/tree/main/03_Sorting-Algorithms)
+- [x]  [**LinkedList**](https://github.com/SamirPaulb/DSAlgo/tree/main/04_LinkedList)
+- [x]  [**Object-Oriented Programming**](https://github.com/SamirPaulb/DSAlgo/tree/main/05_Object-Oriented-Programming)
+- [x]  [**Binary Trees**](https://github.com/SamirPaulb/DSAlgo/tree/main/06_Binary-Trees)
+- [x]  [**Graph Algorithms**](https://github.com/SamirPaulb/DSAlgo/tree/main/07_Graph)
+- [x]  [**Heap**](https://github.com/SamirPaulb/DSAlgo/tree/main/08_Heap)
+- [x]  [**Matrix**](https://github.com/SamirPaulb/DSAlgo/tree/main/09_Matrix)
+- [x]  [**Trie**](https://github.com/SamirPaulb/DSAlgo/tree/main/10_Trie)
+- [x]  [**Binary Search**](https://github.com/SamirPaulb/DSAlgo/tree/main/11_Binary-Search)
+- [x]  [**Backtracking**](https://github.com/SamirPaulb/DSAlgo/tree/main/12_Backtracking)
+- [x]  [**Stack**](https://github.com/SamirPaulb/DSAlgo/tree/main/13_Stack)
+- [x]  [**Queue**](https://github.com/SamirPaulb/DSAlgo/tree/main/14_Queue)
+- [x]  [**Greedy**](https://github.com/SamirPaulb/DSAlgo/tree/main/15_Greedy)
+- [x]  [**String**](https://github.com/SamirPaulb/DSAlgo/tree/main/16_String)
+- [x]  [**Bit Manipulation**](https://github.com/SamirPaulb/DSAlgo/tree/main/17_Bit-Manipulation)
+- [x]  [**Array**](https://github.com/SamirPaulb/DSAlgo/tree/main/18_Array)
+- [x]  [**HashMap**](https://github.com/SamirPaulb/DSAlgo/tree/main/19_HashMap)
+- [x]  [**DFS BFS**](https://github.com/SamirPaulb/DSAlgo/tree/main/20_DFS-BFS)
+- [x]  [**Two Pointers**](https://github.com/SamirPaulb/DSAlgo/tree/main/21_Two-Pointers)
+- [x]  [**Math**](https://github.com/SamirPaulb/DSAlgo/tree/main/22_Math) 
+- [x]  [**Recursion**](https://github.com/SamirPaulb/DSAlgo/tree/main/23_Recursion) 
 
 In various folders of the above topics, you can find questions and concepts related to that topic. 
 
-- In the [Dynamic Programming](https://github.com/SamirPaul1/DSAlgo/tree/main/02_Dynamic-Programming) section, you can find all the questions covered and not covered in [Aditya Verma's](https://www.youtube.com/c/AdityaVermaTheProgrammingLord) [dynamic programming playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) folder-wise with my [handwritten notes](https://raw.githubusercontent.com/SamirPaul1/DSAlgo/main/02_Dynamic-Programming/Dynamic-Programming-NOTE.pdf).✍️
+- In the [Dynamic Programming](https://github.com/SamirPaulb/DSAlgo/tree/main/02_Dynamic-Programming) section, you can find all the questions covered and not covered in [Aditya Verma's](https://www.youtube.com/c/AdityaVermaTheProgrammingLord) [dynamic programming playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) folder-wise with my [handwritten notes](https://drive.google.com/file/d/1wuMmJn2ybYN7eOYDXfe3gkB7TnpdGU3p/view?usp=sharing).✍️
 
-- If you are preparing for an interview from [Striver’s SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) then the [**30-Days-SDE-Sheet-Practice**](https://github.com/SamirPaul1/DSAlgo/tree/main/30-Days-SDE-Sheet-Practice) will be helpful to you. Here I have stored solutions to questions of each day with short notes to each solution, as short notes about the approach are very helpful during revision.🎯
+- If you are preparing for an interview from [Striver’s SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) then the [**30-Days-SDE-Sheet-Practice**](https://github.com/SamirPaulb/DSAlgo/tree/main/30-Days-SDE-Sheet-Practice) will be helpful to you. Here I have stored solutions to questions of each day with short notes to each solution, as short notes about the approach are very helpful during revision.🎯
 
-- In the  [**Questions-Sheet**](https://github.com/SamirPaul1/DSAlgo/tree/main/Questions-Sheet) directory, you can find questions asked by top product-based companies.
+- In the  [**Questions-Sheet**](https://github.com/SamirPaulb/DSAlgo/tree/main/Questions-Sheet) directory, you can find questions asked by top product-based companies.
 
-- There is a collection of books and pdfs on various important computer science fundamentals in the [**BOOKS-and-PDFs**](https://github.com/SamirPaul1/DSAlgo/tree/main/BOOKS-and-PDFs) directory.📚
+- There is a collection of books and pdfs on various important computer science fundamentals in the [**BOOKS-and-PDFs**](https://github.com/SamirPaulb/DSAlgo/tree/main/BOOKS-and-PDFs) directory.📚
 
-I am continuously trying to improve this repository by adding new questions and concepts related to the respective topic. Please feel free to contribute to this repository.💻
+
+<h4>View this repository in online VS Code: <a href="https://samirpaulb.github.io/DSAlgo"> <Strong> https://samirpaulb.github.io/DSAlgo</strong>  <img alt="DSAlgo" src="https://github.com/SamirPaulb/DSAlgo/actions/workflows/pages/pages-build-deployment/badge.svg">
+</a></h4>
+<a href="https://samirpaulb.github.io/DSAlgo"><img src="https://scdn.netlify.app/samirpaul.in-DSAlgo-demo.png" alt="DSA Online VSCode"></a>
+
+<b></b>
+
+I am continuously trying to improve this repository by adding new questions and concepts related to the respective topic. Please feel free to contribute to this repository.
 
 **Things you can contribute to:**
-- Update the existing solution with a better one (better complexity).
+- Update the existing solution <a href="https://app.codacy.com/gh/SamirPaulb/DSAlgo/dashboard"><img loading="lazy" src="https://app.codacy.com/project/badge/Grade/a82141cd87824a70a52376e06b78807f" alt="Codacy Badge" width="90" height="15"></a> with a better one (better complexity).
 - Add new questions and solutions in ```Python3``` to the respective directory.
-- Add new resources to [BOOKS-and-PDFs](https://github.com/SamirPaul1/DSAlgo/tree/main/BOOKS-and-PDFs) & [Questions-Sheet](https://github.com/SamirPaul1/DSAlgo/tree/main/Questions-Sheet).
+- Add new resources to [BOOKS-and-PDFs](https://github.com/SamirPaulb/DSAlgo/tree/main/BOOKS-and-PDFs) & [Questions-Sheet](https://github.com/SamirPaulb/DSAlgo/tree/main/Questions-Sheet).
 - Solve issues raised by other people or yourself.
 - Provide well-documented source code with detailed explanations.
 
+#### Stargazers over time
+<a href="https://github.com/SamirPaulb/DSAlgo"><img alt="Star History" loading="lazy"  src="https://api.star-history.com/svg?repos=SamirPaulb/DSAlgo&type=Date"></a>
 
 ---
+### More Resources:
+> ***Click to expand!👇***
     
+<details>
+ <summary><b>List of Important Questions:✨</b></summary>
     
-### List of Important Questions:✨
-The following list of questions was recommended by [Love Babbar](https://www.youtube.com/c/LoveBabbar1) on this [video](https://youtu.be/4iFALQ1ACdA). I have documented all those questions here.✌️
+> The following list of questions was recommended by [Love Babbar](https://www.youtube.com/c/LoveBabbar1) on this [video](https://youtu.be/4iFALQ1ACdA). I have documented all those questions here.✌️
 
 
 | Topic                      | Important DSA Questions                                                                              | Link                                                                |
 |------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | Topic:                       | Problem:                                                                                             |      Related Link                                                        |
 | <->                          |                                                                                                      |                                                                          |
-| Array                        | Reverse the array                                                                                    | <->                                                                      |
-| Array                        | Find the maximum and minimum element in an array                                                     | <->                                                                      |
-| Array                        | Find the "Kth" max and min element of an array                                                       | <->                                                                      |
-| Array                        | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo      | <->                                                                      |
+| Array                        | Reverse the array (char)                                                                             | https://leetcode.com/problems/reverse-string/                             |
+| Array                        | Remove the maximum and minimum element in an array                                                   | https://leetcode.com/problems/removing-minimum-and-maximum-from-array/    |
+| Array                        | Find the "Kth" largest element of an array                                                           | https://leetcode.com/problems/kth-largest-element-in-an-array/            |
+| Array                        | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo      | https://leetcode.com/problems/sort-colors/                                                                      |
 | Array                        | Move all the negative elements to one side of the array                                              | <->                                                                      |
-| Array                        | Find the Union and Intersection of the two sorted arrays.                                            | <->                                                                      |
-| Array                        | Write a program to cyclically rotate an array by one.                                                | https://leetcode.com/problems/rotate-array/                       |
+| Array                        | Find the Union and Intersection of the two sorted arrays.                                            | [Intersection of the two sorted arrays.(Leetcode)](https://leetcode.com/problems/intersection-of-two-arrays/)                                                                   |
+| Array                        | Write a program to cyclically rotate an array by one.                                                | https://leetcode.com/problems/rotate-array/                              |
 | Array                        | find Largest sum contiguous Subarray [V. IMP]                                                        | https://leetcode.com/problems/maximum-subarray/                          |
 | Array                        | Minimise the maximum difference between heights [V.IMP]                                              | https://leetcode.com/problems/smallest-range-ii/                         |
 | Array                        | Minimum no. of Jumps to reach end of an array                                                        | https://leetcode.com/problems/jump-game                                  |
-| Array                        | find duplicate in an array of N+1 Integers                                                           | <->                                                                      |
-| Array                        | Merge 2 sorted arrays without using Extra space.                                                     | <->                                                                      |
+| Array                        | Find duplicate in an array of N+1 Integers                                                           | https://leetcode.com/problems/find-the-duplicate-number/                                                                             |
+| Array                        | Merge 2 sorted arrays without using Extra space.                                                     | https://leetcode.com/problems/merge-sorted-array/                                                                       
 | Array                        | Kadane's Algorithm                                                                                   | https://leetcode.com/problems/maximum-subarray/                          |
 | Array                        | Merge Intervals                                                                                      | <->                                                                      |
 | Array                        | Next Permutation                                                                                     | <->                                                                      |
 | Array                        | Count Inversion                                                                                      | <->                                                                      |
 | Array                        | Best time to buy and Sell stock                                                                      | <->                                                                      |
+| Array                        | find duplicate in an array of N+1 Integers                                                           | <->                                                                                                                                                                   |
+| Array                        | Merge 2 sorted arrays without using Extra space.                                                     | <->                                                                                                                                                                   |
+| Array                        | Kadane's Algorithm                                                                                   | https://leetcode.com/problems/maximum-subarray/                                                                                       |
+| Array                        | Merge Intervals                                                                                      | https://leetcode.com/problems/merge-intervals/                                                                                        |
+| Array                        | Next Permutation                                                                                     | https://leetcode.com/problems/next-permutation/                                                                                       |
+| Array                        | Count Inversions                                                                                     | <->                                                                      |
+| Array                        | Best time to buy and Sell stock                                                                      | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/                                                                        |
 | Array                        | find all pairs on integer array whose sum is equal to given number                                   | <->                                                                      |
 | Array                        | find common elements In 3 sorted arrays                                                              | <->                                                                      |
 | Array                        | Rearrange the array in alternating positive and negative items with O(1) extra space                 | <->                                                                      |
@@ -530,16 +556,13 @@ The following list of questions was recommended by [Love Babbar](https://www.you
 | Moore voting algorithm       | Majority Element                                                                                     | https://www.youtube.com/watch?v=n5QY3x_GNDg                              |
 | Moore voting algorithm       | Majority Element II                                                                                  | https://www.youtube.com/watch?v=yDbkQd9t2ig                              |
 
+</details>
 
-
----
-
+<details>
+<summary><b>30 Days Interview Preparation Plan:🎯</b></summary>
     
-
-### [30 Days Interview Preparation Plan](https://github.com/SamirPaul1/DSAlgo/tree/main/30-Days-SDE-Sheet-Practice)🎯
-
-<b></b>
-Originally the below sheet was prepared by [Raj Vikramaditya](https://www.youtube.com/c/takeUforward) A.K.A [Striver](https://www.youtube.com/channel/UCvEKHATlVq84hm1jduTYm8g). I have documented this sheet here in markdown.
+  https://github.com/SamirPaulb/DSAlgo/tree/main/30-Days-SDE-Sheet-Practice
+> Originally the below sheet was prepared by [Raj Vikramaditya](https://www.youtube.com/c/takeUforward) A.K.A [Striver](https://www.youtube.com/channel/UCvEKHATlVq84hm1jduTYm8g). I have documented this sheet here in markdown.
 
 <b> </b> 
    
@@ -958,16 +981,21 @@ Day30:
 
     
 
----    
+</details>  
+    
+<details>
+<summary><b>System Design Concepts:📚</b></summary>
+   
+    
+1. https://samirpaulb.github.io/posts/system-design-course
+        
+2. **https://github.com/SamirPaulb/system-design**
 
+3. https://www.freecodecamp.org/news/systems-design-for-interviews
 
-### System Design – Concepts📚
+4. https://www.geeksforgeeks.org/system-design-tutorial
+
+5. https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
     
 
-1. https://github.com/SamirPaul1/system-design-primer
-
-2. https://www.freecodecamp.org/news/systems-design-for-interviews/
-
-3. https://github.com/shashank88/system_design
-
-
+</details>  
